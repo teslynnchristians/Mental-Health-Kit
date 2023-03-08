@@ -27,9 +27,7 @@ Javascript - The Frontend Language
 
 Flask - The Web Development Framework
 
-MySQL - Relational Database Management System
-
-React - Javascript Library
+MySQL - Relational Database Management
 
 Architecture
 ![architecture](https://user-images.githubusercontent.com/104847651/223724983-0f7349c8-737e-4d30-82e4-b6b7d6822bd0.png)
