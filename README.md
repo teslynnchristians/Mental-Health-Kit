@@ -7,6 +7,29 @@ The Project
 
 Everyone struggling with mental health needs a strong community behind them . This is why I created Mental Health Kit.
 
-Mental Health Kit is a site where those struggling with mental health can communicate with others suffering with the same mental illness or different mental illness. They can share their struggles as well as participate in activities to help them control their episodes. They can also get more information about the mental illness they suffer from. They can also make notes on the app when the activity helps them or what they did differently from the activity to help them .
+Mental Health Kit is a site where those struggling with mental health can communicate with others suffering with the same mental illness or different mental illness. They can share their struggles as well as participate in activities to help them control their episodes. They can also get more information about the mental illness they suffer from. 
+Other features is they can add anything to their profile or they can edit their profile.
 
-Owners can craete a profile and direct message others to communicate with them and also share activities that could help them.
+The Context
+This project is our Portfolio Project. We were able to choose who we wanted to work with and what we wanted to work on, as long as we present a working program at the end of the three weeks of development.
+
+The Team 
+
+Teslynn Christians 
+
+Blog post
+Teslynn article https://medium.com/@teslynnchr02/mental-health-kit-da9e996b4dc1
+
+Built With
+Python - The Backend Language
+Javascript - The Frontend Language
+Flask - The Web Development Framework
+MySQL - Relational Database Management System
+React - Javascript Library
+
+API
+
+Future
+Tutorial
+Architecture
+Acknowledgments
