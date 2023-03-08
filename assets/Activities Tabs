@@ -1,1 +1,138 @@
+Activities 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
 
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+</head>
+<body>
+
+<h2>Tabs</h2>
+<p>Click on the buttons inside the tabbed menu:</p>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Depression')">Depression</button>
+  <button class="tablinks" onclick="openCity(event, 'Anxiety')">Anxiety</button>
+  <button class="tablinks" onclick="openCity(event, 'Bipolar Disorder')">Bipolar Disorder</button>
+  <button class="tablinks" onclick="openCity(event, 'PTSD')">PTSD</button>
+</div>
+
+<div id="Depression" class="tabcontent">
+  <h3>Depression</h3>
+  <p>Depression is a common mental health condition that can be managed with the help of medication, therapy, and self-help activities, like:
+
+doing yoga
+meditating
+journaling
+resting
+creating art
+spending time with loved ones
+spending time in nature</p>
+</div>
+
+<div id="Anxiety" class="tabcontent">
+  <h3>Anxiety</h3>
+  <p>5 Simple Activities that Can Help You Relax & Feel Less Anxious
+Go on a leisurely walk or bike ride. Physical activity promotes the release of chemical endorphins that have the ability to improve sleep function, generate feelings of happiness, and relieve stress.
+Write into a journal. Journaling is a great way to express your feelings and get them out on pen and paper. Writing down your thoughts can help you gain perspective and turn negative feelings into powerful mood altering beliefs.
+Meditate or practice yoga. More and more scientists are recommending yoga and meditation for anxiety and stress management. Focusing on your breath or a meditative thought can help you stay in the moment and alleviate feelings of anxiousness.
+Listen to music. Music can take your focus away from distressing thoughts and put you in a lighter mood. Slow, classical music is especially known for its ability to produce a calming effect.
+Read a book or watch a movie. Reading a light book or watching a movie is a great way to take your mind off of stressful situations and tasks. For this, a movie or book with a positive message or theme is recommended.
+</p> 
+</div>
+
+<div id="Bipolar Disorder" class="tabcontent">
+  <h3>Bipolar Disorder</h3>
+  <p>1. Use a calendar to monitor daily activities. For one week, keep track of what you are doing hourly, each day. This means noting everything, such as times that you are sleeping and times that you are not doing anything at all. Monitoring your daily schedule as a regular habit is helpful for a couple of reasons. As a first step, monitoring can help you figure out when to add in activities (see #2 below). Once you start adding in activities, continuing to regularly monitor your schedule can help you keep track of your activity levels and their relationship to your mood (see #4 below).
+
+2. Use the calendar to schedule daily activities. Insert planned activities at specific times of the day. For people with bipolar disorder, keeping a regular schedule is important for mood stability, and scheduling activities is one way to ensure that you are carving out time for planned activities at specific, appropriate points in the day. For instance, avoid scheduling activities that interfere with your regularly chosen bedtime. For people with bipolar disorder, it is also important that your schedule stays manageable and within a healthy range. Be careful not to add too many activities to your schedule, and be thoughtful about keeping a good balance of “active” activities (such as exercise) and activities that allow you to decompress and unwind (such as meditating or listening to music).
+
+3. Choose a balanced mix of enjoyable and important activities. Think about healthy activities that you have historically found to be enjoyable and that contribute to pleasant feelings. It is possible that, when you are feeling depressed, it will take many repetitions of these activities for you to feel the same positive effect on your mood. You may find that, in the short term, completing these activities can instill even a bit of positive emotion into your day. You may also find it helpful to think of a new pleasant activity that you could try, such as playing a sport, completing a hobby, spending time with friends, going out to eat, or playing a game.
+
+Important activities are things that need to get done that are harder to complete when depressed. These activities could include paying bills, completing a chore, finishing an assignment at school, or finishing a task at your job. Completing these activities can contribute to feelings of mastery, or the sense of achievement that we feel when we complete something important, and improve positive feelings that we have about ourselves. This latter point is important, as when people are depressed they often find that they tend to be more self-critical.
+
+4. Keep activities small and manageable. Sometimes, completing a whole task or activity can feel overwhelming when people are experiencing depression. In these instances, try to break up activities into smaller pieces. For instance, if you need to complete a chore in the house, complete half of the chore today and half tomorrow. If picking up your old hobby of painting feels overwhelming, think about how you can break down the steps for this hobby: Maybe one day, you think about what you would like to paint; the next day, you prepare the materials that you will need to paint; and the following day, you start painting.
+
+5. Use mood tracking to note changes in your mood. Mood tracking is a great way to recognize the relationship between your activities and their effect on your mood. Record your mood before and after completing a specific activity. Seeing how activities reliably boost your mood can help you feel motivated to keep staying active, and can help you prioritize scheduling in those activities that most consistently keep your mood feeling balanced.</p>
+
+<div id="PTSD" class="tabcontent">
+  <h3>PTSD</h3>
+  <p>Yoga
+Regular yoga has been shown to reduce physiological arousal in those with PTSD, helping the autonomic nervous system to adapt better to triggers and stimuli. In other words, yoga helps minimise the risk of the body experiencing intrusive memories and other physical symptoms of PTSD
+
+Meditation
+Meditation is simply a series of steps to create heightened awareness, focus and calmness which makes it a valuable psychotherapeutic technique to help people cope with PTSD. It can give individuals better control of their minds and emotions.
+
+Music Therapy
+Music therapy can stimulate the release of positive hormones such as oxytocin, counteract hormones linked to increased stress and provides sensory input that makes us instinctively ease muscle tension. These are all so important to people with PTSD!
+
+Martial Arts
+Martial arts allow you to understand and develop a good relationship with power, helps you express emotions, helps to practice self-care, helps set and maintain boundaries, can help you relax, and can also help with disassociation by reconnecting the body and mind with repetitive movements.
+
+Surfing & Ocean Therapy
+Time with the ocean, or the ‘blue gym’ as it’s also known, has long been celebrated as a way to calm the mind and rejuvenate the body, and several US based foundations and charities specifically promote this method of healing for PTSD sufferers, “we believe we can heal each other one wave at a time”
+
+Running
+The reduction in PTSD symptoms from running is thought to be down to a boost in levels of a brain protein called ‘brain-derived neurotrophic factor’. This BDN protein is generally low in people with PTSD, and plays a role in fear extinction by helping the brain establish context, and therefore a sense of safety
+
+Art Therapy
+Producing art can work to change neural pathways in the brain, which can help to change how we think and feel. Art therapy has been shown to bring together a mind-body connectedness, bi-lateral stimulation, conscious and unconscious mental activity, communication between the limbic system and cerebral cortex functioning, and allow the brain to use mental and visual imagery.</p>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+   
+</body>
+</html>
