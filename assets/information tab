@@ -54,22 +54,154 @@ body {font-family: Arial;}
   <button class="tablinks" onclick="openCity(event, 'Anxiety')">Anxiety</button>
   <button class="tablinks" onclick="openCity(event, 'Bipolar Disorder')">Bipolar Disorder</button>
   <button class="tablinks" onclick="openCity(event, 'PTSD')">PTSD</button>
-
 </div>
 
 <div id="Depression" class="tabcontent">
   <h3>Depression</h3>
-  <p></p>
+  <p>What Is Depression? 
+
+Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately, it is also treatable. Depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. It can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home.
+
+Depression symptoms can vary from mild to severe and can include:
+
+Feeling sad or having a depressed mood
+Loss of interest or pleasure in activities once enjoyed
+Changes in appetite — weight loss or gain unrelated to dieting
+Trouble sleeping or sleeping too much
+Loss of energy or increased fatigue
+Increase in purposeless physical activity (e.g., inability to sit still, pacing, handwringing) or slowed movements or speech (these actions must be severe enough to be observable by others)
+Feeling worthless or guilty
+Difficulty thinking, concentrating or making decisions
+Thoughts of death or suicide
+Symptoms must last at least two weeks and must represent a change in your previous level of functioning for a diagnosis of depression.
+
+Also, medical conditions (e.g., thyroid problems, a brain tumor or vitamin deficiency) can mimic symptoms of depression so it is important to rule out general medical causes.
+
+Depression affects an estimated one in 15 adults (6.7%) in any given year. And one in six people (16.6%) will experience depression at some time in their life. Depression can occur at any time, but on average, first appears during the late teens to mid-20s. Women are more likely than men to experience depression. Some studies show that one-third of women will experience a major depressive episode in their lifetime. There is a high degree of heritability (approximately 40%) when first-degree relatives (parents/children/siblings) have depression.</p>
 </div>
 
 <div id="Anxiety" class="tabcontent">
   <h3>Anxiety</h3>
-  <p>Paris is the capital of France.</p> 
+  <p>What Are Anxiety Disorders?
+Anxiety is a normal human emotion that everyone experiences at one time or another, for instance, when faced with a problem at work, before taking a test, or making a big decision. Anxiety disorders, however, are different. The distress they cause is so great that it interferes with a person’s ability to lead a normal life. For people with anxiety disorders, worry and fear are constant and overwhelming, and can be crippling.
+
+The types of anxiety disorders include panic disorder, social anxiety disorder, specific phobias, and generalized anxiety disorder.
+
+Many brain researchers believe that anxiety disorders may be caused by problems in the functioning of brain circuits that regulate fear and other emotions. Studies have shown that severe or long-lasting stress can change the way nerve cells within these circuits transmit information from one region of the brain to another. Other studies have shown that people with certain anxiety disorders have changes in certain brain structures that control memories linked with strong emotions.
+
+Anxiety disorders run in families, meaning they can be at least partly inherited from one or both parents, like the risk for heart disease. Moreover, certain environmental factors — such as a traumatic event — can trigger an anxiety disorder in people who have an inherited susceptibility to developing the disorder.
+
+Anxiety disorders affect millions of adult Americans. They occur slightly more often in women than in men.
+How to Deal with Anxiety and Anxiety Disorders
+COMMON CAUSES
+Anxiety can be normal in stressful situations such as public speaking or taking a test. Anxiety is only an indicator of underlying disease when feelings become excessive, all-consuming and interfere with daily living.
+
+Today, people that have anxiety are finding ways to get help and here are 5 tips on how to deal with anxiety and anxiety disorders:
+
+Tip 1: Do Yoga
+Yoga is not only good for your body, it is also good for your mind. It has been a helpful method for people that want to lower their anxiety level and make themselves more calm. There have been numerous of studies in the past that talked about how yoga can reduce a person’s anxiety and stress. The reason why this tip has been successful is not only for the poses that they do, but for the breathing. Because breathing is a good contributor in yoga, people feel more relaxed and less stressed.
+
+Tip 2: Try Aromatherapy
+
+Aromatherapy, also known as oil therapy, is a type of treatment which utilizes natural plants for healing a person both physically and mentally. This treatment uses different kinds of oil to heal a person’s mind, body, and soul. Like yoga, aromatherapy has also shown that it can reduce anxiety and stress according to a study from 2016. And lastly, there are also special kind of oils that a person with high anxiety can use. These oils that are good for reducing anxiety are lavender, chamomile, neroli, and more to chose from.
+
+Tip 3: Learn to Manage Your Triggers
+
+People that have anxiety are triggered by anything that makes them feel stressful. These complications can be work-related situations, drinking caffeine or alcohol, having depression, and trauma. The only way to stop that trigger from happening is to identify that piece which causes the anxiety to occur. This will help them to control their anxiety.
+</p> 
 </div>
 
 <div id="Bipolar Disorder" class="tabcontent">
   <h3>Bipolar Disorder</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <p>What Are Bipolar Disorders?
+Bipolar disorder is a brain disorder that causes changes in a person's mood, energy, and ability to function. People with bipolar disorder experience intense emotional states that typically occur during distinct periods of days to weeks, called mood episodes. These mood episodes are categorized as manic/hypomanic (abnormally happy or irritable mood) or depressive (sad mood). People with bipolar disorder generally have periods of neutral mood as well. When treated, people with bipolar disorder can lead full and productive lives.
+
+People without bipolar disorder experience mood fluctuations as well. However, these mood changes typically last hours rather than days. Also, these changes are not usually accompanied by the extreme degree of behavior change or difficulty with daily routines and social interactions that people with bipolar disorder demonstrate during mood episodes. Bipolar disorder can disrupt a person’s relationships with loved ones and cause difficulty in working or going to school.
+
+Bipolar disorder is a category that includes three different diagnoses: bipolar I, bipolar II, and cyclothymic disorder.
+
+Bipolar disorder commonly runs in families: 80 to 90 percent of individuals with bipolar disorder have a relative with bipolar disorder or depression. Environmental factors such as stress, sleep disruption, and drugs and alcohol may trigger mood episodes in vulnerable people. Though the specific causes of bipolar disorder within the brain are unclear, an imbalance of brain chemicals is believed to lead to dysregulated brain activity. The average age of onset is 25 years old.
+
+People with bipolar I disorder frequently have other mental disorders such as anxiety disorders, substance use disorders, and/or attention-deficit/hyperactivity disorder (ADHD). The risk of suicide is significantly higher among people with bipolar I disorder than among the general population.
+
+Bipolar I Disorder
+Bipolar I disorder is diagnosed when a person experiences a manic episode. During a manic episode, people with bipolar I disorder experience an extreme increase in energy and may feel on top of the world or uncomfortably irritable in mood. Some people with bipolar I disorder also experience depressive or hypomanic episodes, and most people with bipolar I disorder also have periods of neutral mood.
+
+Symptoms of Bipolar I Disorder
+Manic Episode
+A manic episode is a period of at least one week when a person is extremely high-spirited or irritable most of the day for most days, possesses more energy than usual, and experiences at least three of the following changes in behavior:
+
+Decreased need for sleep (e.g., feeling energetic despite significantly less sleep than usual
+Increased or faster speech
+Uncontrollable racing thoughts or quickly changing ideas or topics when speaking
+Distractibility
+Increased activity (e.g., restlessness, working on several projects at once)
+Increased risky behavior (e.g., reckless driving, spending sprees)
+These behaviors must represent a change from the person’s usual behavior and be clear to friends and family. Symptoms must be severe enough to cause dysfunction in work, family, or social activities and responsibilities. Symptoms of a manic episode commonly require a person to receive hospital care to stay safe.
+
+Some people experiencing manic episodes also experience disorganized thinking, false beliefs, and/or hallucinations, known as psychotic features.
+
+Hypomanic Episode
+A hypomanic episode is characterized by less severe manic symptoms that need to last only four days in a row rather than a week. Hypomanic symptoms do not lead to the major problems in daily functioning that manic symptoms commonly cause.
+
+Major Depressive Episode
+A major depressive episode is a period of at least two weeks in which a person has at least five of the following symptoms (including at least one of the first two symptoms):
+
+Intense sadness or despair
+Loss of interest in activities the person once enjoyed
+Feelings of worthlessness or guilt
+Fatigue
+Increased or decreased sleep
+Increased or decreased appetite
+Restlessness (e.g., pacing) or slowed speech or movement
+Difficulty concentrating
+Frequent thoughts of death or suicide
+Treatment and Management
+Bipolar disorder symptoms commonly improve with treatment. Medication is the cornerstone of bipolar disorder treatment, though talk therapy (psychotherapy) can help many patients learn about their illness and adhere to medications, preventing future mood episodes.
+
+Medications known as “mood stabilizers” (e.g., lithium) are the most commonly prescribed type of medications for bipolar disorder. These medications are believed to correct imbalanced brain signaling. Because bipolar disorder is a chronic illness in which mood episodes typically recur, ongoing preventive treatment is recommended. Bipolar disorder treatment is individualized; people with bipolar disorder may need to try different medications before finding what works best for them.
+
+In some cases, when medication and psychotherapy have not helped, an effective treatment known as electroconvulsive therapy (ECT) may be used. ECT involves several rounds of a brief electrical current applied to the scalp while the patient is under anesthesia, leading to a short, controlled seizure. ECT-induced seizures are believed to remodel brain signaling pathways.
+
+Since bipolar disorder can cause serious disruptions in a person’s daily life and create a stressful family situation, family members may also benefit from professional resources, particularly mental health advocacy and support groups. From these sources, families can learn strategies for coping, participating actively in the treatment, and obtaining support.
+
+Bipolar II Disorder
+A diagnosis of bipolar II disorder requires someone to have at least one major depressive episode and at least one hypomanic episode (see above). People return to their usual functioning between episodes. People with bipolar II disorder often first seek treatment as a result of their first depressive episode, since hypomanic episodes often feel pleasurable and can even increase performance at work or school.
+
+People with bipolar II disorder frequently have other mental illnesses such as an anxiety disorder or substance use disorder, the latter of which can exacerbate symptoms of depression or hypomania.
+
+Treatment
+Treatments for bipolar II are similar to those for bipolar I: medication and psychotherapy. The most commonly used medications are mood stabilizers and antidepressants, depending on the specific symptoms. If depressive symptoms are severe and medication is not effective, ECT (see above) may be used. Each person's treatment is individualized.
+
+Cyclothymic Disorder
+Cyclothymic disorder is a milder form of bipolar disorder involving many "mood swings," with hypomania and depressive symptoms that occur frequently. People with cyclothymia experience emotional ups and downs but with less severe symptoms than bipolar I or II disorder.
+
+Cyclothymic disorder symptoms include the following:
+
+For at least two years, many periods of hypomanic and depressive symptoms, but the symptoms do not meet the criteria for hypomanic or depressive episode.
+During the two-year period, the symptoms (mood swings) have lasted for at least half the time and have never stopped for more than two months.
+Treatment
+Treatment for cyclothymic disorder can involve medication and talk therapy. For many people, talk therapy can help with the stresses of mood swings. Keeping a mood journal can be an effective way to observe patterns in mood fluctuation. People with cyclothymia may start and stop treatment over time.</p>
+
+<div id="PTSD" class="tabcontent">
+  <h3>PTSD</h3>
+  <p>What is Posttraumatic Stress Disorder (PTSD)?
+Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event, series of events or set of circumstances. An individual may experience this as emotionally or physically harmful or life-threatening and may affect mental, physical, social, and/or spiritual well-being. Examples include natural disasters, serious accidents, terrorist acts, war/combat, rape/sexual assault, historical trauma, intimate partner violence and bullying,
+
+PTSD has been known by many names in the past, such as “shell shock” during the years of World War I and “combat fatigue” after World War II, but PTSD does not just happen to combat veterans. PTSD can occur in all people, of any ethnicity, nationality or culture, and at any age. PTSD affects approximately 3.5 percent of U.S. adults every year. The lifetime prevalence of PTSD in adolescents ages 13 -18 is 8%. An estimate one in 11 people will be diagnosed with PTSD in their lifetime. Women are twice as likely as men to have PTSD. Three ethnic groups – U.S. Latinos, African Americans, and Native Americans/Alaska Natives – are disproportionately affected and have higher rates of PTSD than non-Latino whites.
+
+People with PTSD have intense, disturbing thoughts and feelings related to their experience that last long after the traumatic event has ended. They may relive the event through flashbacks or nightmares; they may feel sadness, fear or anger; and they may feel detached or estranged from other people. People with PTSD may avoid situations or people that remind them of the traumatic event, and they may have strong negative reactions to something as ordinary as a loud noise or an accidental touch.
+
+A diagnosis of PTSD requires exposure to an upsetting traumatic event. Exposure includes directly experiencing an event, witnessing a traumatic event happening to others, or learning that a traumatic event happened to a close family member or friend. It can also occur as a result of repeated exposure to horrible details of trauma such as police officers exposed to details of child abuse cases.
+
+Symptoms and Diagnosis
+Symptoms of PTSD fall into the following four categories. Specific symptoms can vary in severity.
+
+Intrusion: Intrusive thoughts such as repeated, involuntary memories; distressing dreams; or flashbacks of the traumatic event. Flashbacks may be so vivid that people feel they are reliving the traumatic experience or seeing it before their eyes.
+Avoidance: Avoiding reminders of the traumatic event may include avoiding people, places, activities, objects and situations that may trigger distressing memories. People may try to avoid remembering or thinking about the traumatic event. They may resist talking about what happened or how they feel about it.
+Alterations in cognition and mood: Inability to remember important aspects of the traumatic event, negative thoughts and feelings leading to ongoing and distorted beliefs about oneself or others (e.g., “I am bad,” “No one can be trusted”); distorted thoughts about the cause or consequences of the event leading to wrongly blaming self or other; ongoing fear, horror, anger, guilt or shame; much less interest in activities previously enjoyed; feeling detached or estranged from others; or being unable to experience positive emotions (a void of happiness or satisfaction).
+Alterations in arousal and reactivity: Arousal and reactive symptoms may include being irritable and having angry outbursts; behaving recklessly or in a self-destructive way; being overly watchful of one's surroundings in a suspecting way; being easily startled; or having problems concentrating or sleeping.
+Many people who are exposed to a traumatic event experience symptoms similar to those described above in the days following the event. For a person to be diagnosed with PTSD, however, symptoms must last for more than a month and must cause significant distress or problems in the individual's daily functioning. Many individuals develop symptoms within three months of the trauma, but symptoms may appear later and often persist for months and sometimes years. PTSD often occurs with other related conditions, such as depression, substance use, memory problems and other physical and mental health problems.</p>
 </div>
 
 <script>
