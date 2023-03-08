@@ -1,0 +1,230 @@
+/* ---------- GENERAL ---------- */
+* {
+	box-sizing: border-box !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+body,
+html {
+	display: flex !important;
+	flex-direction: column !important;
+	justify-content: center !important;
+	align-items: center !important;
+	font-family: "Arial Rounded MT Bold" !important;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: 0 auto !important;
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(to top, #dfe9f3 0%, white 100%) !important;
+}
+
+/* ------- nav-bar is common to all components ------- */
+.nav-bar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 6em;
+	width: 100%;
+	padding: 0.3em !important;
+}
+
+.logo {
+	height: 4em;
+	width: 6em;
+	color: #badfdb;
+}
+
+.logo-image {
+	height: 4em;
+	width: 100%;
+}
+
+.profile-icon {
+	height: 4em;
+}
+
+.profile {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-end;
+	height: 100%;
+	width: 100%;
+	max-width: 100%;
+}
+
+.profile-img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	border-radius: 15px;
+	box-shadow: 0px 3px 3px grey;
+}
+
+.profileInfo {
+	color: #ffc5a1;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	flex-direction: column;
+	border: 2px solid;
+	font-size: 2vh;
+	border-radius: 15px;
+	box-shadow: 0px 3px 3px grey;
+	padding: .7em !important;
+}
+
+.profileInfo h2 {
+	color: #f8a978;
+}
+
+/* ------- Transitions for the profile image to the profile info ------- */
+.flip-enter-active {
+	transition: transform 1s cubic-bezier(0.04, 1.07, 0.89, 1.01);
+}
+
+.flip-enter {
+	transform: rotateY(180deg);
+}
+
+.name-age {
+	color: #badfdb;
+	font-size: 2vh;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	height: 17%;
+}
+
+.name-age h1 {
+	margin: 0 auto !important;
+	padding-left: .2em !important;
+	padding-top: .7em !important;
+}
+
+.name-age h2 {
+	margin: 0 auto !important;
+	padding-bottom: .2em !important;
+	padding-left: .2em !important;
+}
+
+.profile h2 {
+	opacity: 0.8;
+	font-size: 2.5em;
+}
+
+.profiles {
+	height: 100%;
+}
+
+/* ------- This is the background of each profile image ------- */
+.back {
+	height: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-radius: 15px;
+	box-shadow: 0px 3px 3px grey;
+}
+
+.login form {
+	height: 65%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center;
+	color: #f8a978;
+}
+
+/* ---------- SIGNUP ---------- */
+.signup {
+	width: 100%;
+	height: 100%;
+	padding: 1em !important;
+	display: flex;
+	flex-direction: column;
+	color: #f8a978;
+	overflow-y: scroll;
+}
+
+.signup form {
+	height: 70%;
+	width: 70%;
+	align-self: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center;
+	color: #f8a978;
+}
+
+.signup-user-profile {
+	width: 100%;
+	color: #f8a978;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.signup-user-profile h2 {
+	margin: .7em;
+}
+
+.uploaded-image {
+	margin: 2em !important;
+	height: 100%;
+	border-radius: 15px;
+	box-shadow: 0px 3px 3px grey;
+}
+
+.uploaded-image img {
+	height: 100%;
+	border-radius: 15px;
+}
+
+.upload {
+	width: 100%;
+	height: 70%;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.image-form {
+	height: 70% !important;
+	width: 100% !important;
+	padding: 1em !important;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+.image-form h4 {
+	margin: .5em !important;
+}
+
+.signup-0,
+.signup-1,
+.signup-2 {
+	width: 100%;
+	height: 90%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+/* -----------------------------------------*/
+
