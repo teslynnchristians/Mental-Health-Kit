@@ -27,9 +27,20 @@ Flask - The Web Development Framework
 MySQL - Relational Database Management System
 React - Javascript Library
 
-API
-
-Future
 Tutorial
+![sign up](https://user-images.githubusercontent.com/104847651/223724741-96e2e72b-ce3f-4b97-82e7-dcec08233b73.jpg)
+
 Architecture
+![architecture](https://user-images.githubusercontent.com/104847651/223724983-0f7349c8-737e-4d30-82e4-b6b7d6822bd0.png)
+
 Acknowledgments
+
+ALX and Holberton School staff - For the help, advice and resources they provided us with during this project and during all our curriculum.
+Myself, family members and friends - For the inspiration , incouragement for creating this project.
+
+Related projects
+https://github.com/teslynnchristians/AirBnB_clone :  a simple web app made in Python, Flask, and JQuery.
+https://github.com/teslynnchristians/simple_shell :  a command line interpreter that replicates the sh program
+
+License 
+MIT License
