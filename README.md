@@ -1,4 +1,5 @@
 Mental Health Kit - Let's improve our mental health together.
+![mental health kit - logo](https://user-images.githubusercontent.com/104847651/223721986-6ad4772a-5677-4e1b-86fa-a60b5ffb6e3d.png)
 
 Introduction
 
