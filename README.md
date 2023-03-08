@@ -27,9 +27,6 @@ Flask - The Web Development Framework
 MySQL - Relational Database Management System
 React - Javascript Library
 
-Tutorial
-![sign up](https://user-images.githubusercontent.com/104847651/223724741-96e2e72b-ce3f-4b97-82e7-dcec08233b73.jpg)
-
 Architecture
 ![architecture](https://user-images.githubusercontent.com/104847651/223724983-0f7349c8-737e-4d30-82e4-b6b7d6822bd0.png)
 
