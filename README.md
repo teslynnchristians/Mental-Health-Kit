@@ -22,9 +22,13 @@ Teslynn article https://medium.com/@teslynnchr02/mental-health-kit-da9e996b4dc1
 
 Built With
 Python - The Backend Language
+
 Javascript - The Frontend Language
+
 Flask - The Web Development Framework
+
 MySQL - Relational Database Management System
+
 React - Javascript Library
 
 Architecture
